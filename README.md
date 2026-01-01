@@ -8,7 +8,7 @@
 ## 📸 Screenshot
 
 
-![BharatBlog Preview](Blog_main\static\images\sc.png)
+![BharatBlog Preview](static\images\sc.png)
 
 ---
 
